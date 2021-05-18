@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Sumsung s7d",
+      "price": "23000",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "id": 6,
+      "name": "Nokie 3r",
+      "price": 15000,
+      "status": false
+    },
+    {
+      "id": 13,
+      "name": "Iphone 4",
+      "price": 12,
+      "status": false
+    }
+  ]
+}
